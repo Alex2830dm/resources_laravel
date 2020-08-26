@@ -3,3 +3,5 @@
 1.- Plantilla AdminLTE modificada para realizar algunas secciones con usuarios.
 
 2.- Archivos agregados de login y register de muestra (editarlos al gusto).
+
+3.- Archivo home.blade.php para agregar Dashboard al proyecto.
