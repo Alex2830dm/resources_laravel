@@ -25,7 +25,7 @@
                 <!-- small box -->
                 <div class="small-box bg-info">
                     <div class="inner">
-                        <h3>{{ $count_users }}</h3>
+                        <h3>100</h3>
 
                         <p>Usuarios</p>
                     </div>
@@ -40,7 +40,7 @@
                 <!-- small box -->
                 <div class="small-box bg-success">
                     <div class="inner">
-                        <h3>{{ $count_notas }}</h3>
+                        <h3>20</h3>
 
                         <p>Notas</p>
                     </div>
@@ -55,7 +55,7 @@
                 <!-- small box -->
                 <div class="small-box bg-warning">
                     <div class="inner">
-                        <h3>{{ $count_roles }}</h3>
+                        <h3>2</h3>
 
                         <p>Roles</p>
                     </div>
